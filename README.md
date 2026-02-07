@@ -9,16 +9,12 @@ Eww Sidebar for Quickapps
 
 > [!IMPORTANT]
 > **Required**
-> - Eww, Polybar
+> - Eww
+> - Polybar
 
 
 
 
-:gear: **EWW REPO:**
-:link: [Eww Repo Git Clone](https://github.com/elkowar/eww)
-
-:gear: **EWW DOCUMENTATION:**
-:link:[Official Documentation](https://elkowar.github.io/eww/)
 
 
 
@@ -52,9 +48,17 @@ Eww Sidebar for Quickapps
 
 
 > [!TIP]
-> OR you can always change out applied quickapps to your own desired quickapps. To do this, you must create your own SVG images to match!
+> OR you can always change out applied quickapps to your own desired quickapps.
+> To do this, you must create your own SVG images to match!
 
 
+___________________________________________________________________
+:gear: **EWW REPO:**
+:link: [Eww Repo Git Clone](https://github.com/elkowar/eww)
+
+:gear: **EWW DOCUMENTATION:**
+:link:[Official Documentation](https://elkowar.github.io/eww/)
+___________________________________________________________________
 
 
 > [!NOTE]
