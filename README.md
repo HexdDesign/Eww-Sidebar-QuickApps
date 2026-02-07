@@ -1,6 +1,6 @@
 # [[ ✩ DOTS BY DIZZY  ✩ ]]
 
-Eww Sidebar for Quickapps
+**Eww Sidebar for Quickapps**
 
 >Designed to be toggled open/closed from Polybar 
 
