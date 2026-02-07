@@ -6,12 +6,12 @@ Eww Sidebar for Quickapps
 
 
 
-
+___________________________________________________________________
 > [!IMPORTANT]
 > **Required**
 > - Eww
 > - Polybar
-
+___________________________________________________________________
 
 
 
@@ -24,7 +24,7 @@ Eww Sidebar for Quickapps
 
 
 
-
+___________________________________________________________________
 :sparkles: **Quickapps Used in this Sidebar** :sparkles:
 
 :light_blue_heart: Proton Mail
@@ -44,7 +44,7 @@ Eww Sidebar for Quickapps
 :light_blue_heart: Github
 
 :light_blue_heart: Jellyfin
-
+___________________________________________________________________
 
 
 > [!TIP]
@@ -52,6 +52,8 @@ Eww Sidebar for Quickapps
 > To do this, you must create your own SVG images to match!
 
 
+
+:heavy_check_mark: #OFFICIAL DOCUMENTATION
 ___________________________________________________________________
 :gear: **EWW REPO:**
 :link: [Eww Repo Git Clone](https://github.com/elkowar/eww)
