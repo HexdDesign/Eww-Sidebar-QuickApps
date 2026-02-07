@@ -2,7 +2,7 @@
 
 Eww Sidebar for Quickapps
 
-:wrench: Designed to be toggled open/closed from Polybar 
+>Designed to be toggled open/closed from Polybar 
 
 
 
