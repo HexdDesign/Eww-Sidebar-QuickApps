@@ -1,8 +1,8 @@
 # [[ ✩ DOTS BY DIZZY  ✩ ]]
 
-Eww Sidebar for Quickapps
+##Eww Sidebar for Quickapps
 
-[Designed to be toggled open/closed from Polybar]
+###[Designed to be toggled open/closed from Polybar]
 
 
 
@@ -15,33 +15,26 @@ Eww Sidebar for Quickapps
 
 ![Eww Quickapps](0000112333.png)
 
+> [!IMPORTANT]
+>_Required_
+>:light_blue_heart: Eww
+>:light_blue_heart: Polybar
 
-_Required_
-:light_blue_heart: Eww
-:light_blue_heart: Polybar
-
-
-_Quickapps_
-:light_blue_heart: Proton Mail
-
-:light_blue_heart: Proton VPN
-
-:light_blue_heart: Steam
-
-:light_blue_heart: Discord
-
-:light_blue_heart: Firefox Browser
-
-:light_blue_heart: Tor Browser
-
-:light_blue_heart: VSCodium
-
-:light_blue_heart: Github
-
-:light_blue_heart: Jellyfin
-
-:blue_heart: :blue_heart: :blue_heart:  OR - change out Discord & Steam to your own desired quickapps. :blue_heart: :blue_heart: :blue_heart:
+>_Quickapps_
+>:light_blue_heart: Proton Mail
+>:light_blue_heart: Proton VPN
+>:light_blue_heart: Steam
+>:light_blue_heart: Discord
+>:light_blue_heart: Firefox Browser
+>:light_blue_heart: Tor Browser
+>:light_blue_heart: VSCodium
+>:light_blue_heart: Github
+>:light_blue_heart: Jellyfin
 
 
+> [!TIP]
+> OR you can always change out applied quickapps to your own desired quickapps. To do this, you must create your own SVG images to match.
 
-[ I am using Linux Archcraft & i3wm ]
+
+> [!NOTE]
+> I am using Linux Archcraft & i3wm
