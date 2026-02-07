@@ -1,4 +1,4 @@
-/* Paint the actual GTK window surface (reliable in Eww) */
+/* GTK window surface */
 window,
 window decoration {
   background-color: #123d88;
