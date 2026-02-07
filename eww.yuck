@@ -1,6 +1,10 @@
 ;; ======================
 ;; WIDGETS
 ;; ======================
+;; ======================
+;; ======================
+;; USER IMAGE
+;; ======================
 
 (defwidget user-image []
   (box :class "user-image"
@@ -13,6 +17,10 @@
 (defwidget app-icon [cmd svg]
   (button :class "qa-icon-btn" :onclick cmd
     (image :class "qa-svg" :path svg :image-width 55 :image-height 55)))
+
+;; ======================
+;; QUICKAPPS
+;; ======================
 
 (defwidget quickapps []
   (box :class "quickapps"
@@ -30,7 +38,9 @@
     (app-icon :cmd "firefox https://github.com" :svg "/home/dizzy/.config/eww/icons/github.svg")
     (app-icon :cmd "firefox http://localhost:8096/" :svg "/home/dizzy/.config/eww/icons/jellyfin.svg")))
 
-
+;; ======================
+;; SIDEBAR
+;; ======================
 
 (defwidget sidebar []
   (box
