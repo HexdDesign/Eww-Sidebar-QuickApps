@@ -29,21 +29,13 @@ ___________________________________________________________________
 
 
 >:light_blue_heart: Proton Mail
-
 >:light_blue_heart: Proton VPN
-
 >:light_blue_heart: Steam
-
 >:light_blue_heart: Discord
-
 >:light_blue_heart: Firefox Browser
-
 >:light_blue_heart: Tor Browser
-
 >:light_blue_heart: VSCodium
-
 >:light_blue_heart: Github
-
 >:light_blue_heart: Jellyfin
 ___________________________________________________________________
 
