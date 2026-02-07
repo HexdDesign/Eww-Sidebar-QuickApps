@@ -2,7 +2,7 @@
 
 Eww Sidebar for Quickapps
 
-Designed to be toggled open/closed from Polybar 
+:wrench: Designed to be toggled open/closed from Polybar 
 
 
 
@@ -15,10 +15,10 @@ Designed to be toggled open/closed from Polybar
 
 
 :gear: **EWW REPO:**
-[Eww Repo Git Clone](https://github.com/elkowar/eww)
+:link: [Eww Repo Git Clone](https://github.com/elkowar/eww)
 
 :gear: **EWW DOCUMENTATION:**
-[Official Documentation](https://elkowar.github.io/eww/)
+:link:[Official Documentation](https://elkowar.github.io/eww/)
 
 
 
@@ -31,23 +31,23 @@ Designed to be toggled open/closed from Polybar
 
 :sparkles: **Quickapps Used in this Sidebar** :sparkles:
 
-:light_blue_heart: Proton Mail\
+:light_blue_heart: Proton Mail
 
-:light_blue_heart: Proton VPN\
+:light_blue_heart: Proton VPN
 
-:light_blue_heart: Steam\
+:light_blue_heart: Steam
 
-:light_blue_heart: Discord\
+:light_blue_heart: Discord
 
-:light_blue_heart: Firefox Browser\
+:light_blue_heart: Firefox Browser
 
-:light_blue_heart: Tor Browser\
+:light_blue_heart: Tor Browser
 
-:light_blue_heart: VSCodium\
+:light_blue_heart: VSCodium
 
-:light_blue_heart: Github\
+:light_blue_heart: Github
 
-:light_blue_heart: Jellyfin\
+:light_blue_heart: Jellyfin
 
 
 
