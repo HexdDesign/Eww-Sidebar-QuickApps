@@ -1,22 +1,29 @@
 # [[ ✩ DOTS BY DIZZY  ✩ ]]
 
-##Eww Sidebar for Quickapps
+Eww Sidebar for Quickapps
 
-###[Designed to be toggled open/closed from Polybar]
-
-
+	<ins> Designed to be toggled open/closed from Polybar </ins>
 
 
-**EWW REPO:**
+
+
+:gear: **EWW REPO:**
 [Eww Repo Git Clone](https://github.com/elkowar/eww)
 
-**EWW DOCUMENTATION:**
+:gear: **EWW DOCUMENTATION:**
 [Official Documentation](https://elkowar.github.io/eww/)
+
+
 
 ![Eww Quickapps](0000112333.png)
 
+
+
 > [!IMPORTANT]
-> **Required** - Eww, Polybar
+> **Required**
+> - Eww, Polybar
+
+
 
 :sparkles: **Quickapps Used in this Sidebar** :sparkles:
 
@@ -29,6 +36,7 @@
 :light_blue_heart: VSCodium
 :light_blue_heart: Github
 :light_blue_heart: Jellyfin
+
 
 
 > [!TIP]
