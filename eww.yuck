@@ -1,0 +1,62 @@
+;; ======================
+;; WIDGETS
+;; ======================
+
+(defwidget user-image []
+  (box :class "user-image"
+       :valign "start"
+       :vexpand false
+    (image :path "/home/dizzy/.config/eww/icons/vy2k2.png"
+           :image-width 90
+           :image-height 300)))
+
+(defwidget app-icon [cmd svg]
+  (button :class "qa-icon-btn" :onclick cmd
+    (image :class "qa-svg" :path svg :image-width 55 :image-height 55)))
+
+(defwidget quickapps []
+  (box :class "quickapps"
+       :orientation "v"
+       :spacing 24
+       :halign "center"
+       :valign "start"
+    (app-icon :cmd "gtk-launch proton-mail" :svg "/home/dizzy/.config/eww/icons/proton-mail.svg")
+    (app-icon :cmd "gtk-launch protonvpn"   :svg "/home/dizzy/.config/eww/icons/protonvpn.svg")
+    (app-icon :cmd "steam"                  :svg "/home/dizzy/.config/eww/icons/steam.svg")
+    (app-icon :cmd "discord"                :svg "/home/dizzy/.config/eww/icons/discord.svg")
+    (app-icon :cmd "firefox"                :svg "/home/dizzy/.config/eww/icons/firefox.svg")
+    (app-icon :cmd "torbrowser-launcher"    :svg "/home/dizzy/.config/eww/icons/tor.svg")
+    (app-icon :cmd "codium"                 :svg "/home/dizzy/.config/eww/icons/vscode.svg")
+    (app-icon :cmd "firefox https://github.com" :svg "/home/dizzy/.config/eww/icons/github.svg")
+    (app-icon :cmd "firefox http://localhost:8096/" :svg "/home/dizzy/.config/eww/icons/jellyfin.svg")))
+
+
+
+(defwidget sidebar []
+  (box
+    :class "sidebar-bg"
+    :orientation "v"
+    :spacing 0
+    :space-evenly false
+    :halign "center"
+    :valign "start"
+    :vexpand false
+    (user-image)
+    (box :spacing 16
+         :orientation "v"
+         :valign "start"
+         :margin-top -10  
+      (quickapps))))
+
+;; ======================
+;; WINDOW
+;; ======================
+(defwindow sidebar
+  :monitor 0
+  :anchor "left top"
+  :stacking "bg"
+  :exclusive false
+  :focusable false
+  :class "sidebar-window"
+  :geometry (geometry :x "0" :y "32" :width "95px" :height "1015px")
+  (sidebar))

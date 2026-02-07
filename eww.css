@@ -1,0 +1,51 @@
+/* Paint the actual GTK window surface (reliable in Eww) */
+window,
+window decoration {
+  background-color: #123d88;
+}
+
+
+/* Inner widgets*/
+.sidebar-bg,
+.qa-svg,
+box, button, image, label, scale, eventbox {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  
+}
+/* Gold inner accent */
+.sidebar-bg {
+  outline: 1px solid #FFD36A;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+
+
+/* Quickapps */
+.quickapps {
+  margin-top: 10px;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+/* Hover glow */
+.qa-icon-btn {
+  border-radius: 10px;
+}
+.qa-icon-btn:hover {
+  background-color: rgba(255, 255, 255, 0.20);
+  box-shadow:
+    0 0 6px rgba(9, 172, 247, 0.55),
+    0 0 14px rgba(9, 172, 247, 0.30);
+}
+
+
+/* User Image */
+.user-image {
+  margin-top: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
