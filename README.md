@@ -1,4 +1,4 @@
-# [[ ‧✩ ੈ DOTS BY DIZZY  ੈ✩‧₊ ]]
+# [[ ✩ DOTS BY DIZZY  ✩ ]]
 
 Eww Sidebar for Quickapps
 
