@@ -5,7 +5,7 @@
 >Designed to be toggled open/closed from Polybar
 
 
-_A slim quickapps sidebar toggled open from Polybar that enable easy access to your favorite apps._ 
+_A slim quickapps sidebar toggled open from Polybar that enable easy access to your favorite apps, with a user photo at the top._ 
 
 
 
